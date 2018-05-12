@@ -1,0 +1,39 @@
+_repo: Ry-st-lapsiKertomus-David-Balfourin-seikkailuista_16837
+_version: 0.1.0
+alternative_title: Kidnapped. Finnish
+contributor:
+  translator:
+    agent_name: Lampén, O. E.
+    alias: Lampen, O. E.
+    birthdate: 1880
+    deathdate: 1925
+    gutenberg_agent_id: '6964'
+    url: http://www.gutenberg.org/2009/agents/6964
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '2005-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16837'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Kidnapping -- Fiction'
+- !lcsh 'Scotland -- History -- 18th century -- Fiction'
+title: 'Ryöstölapsi: Kertomus David Balfourin seikkailuista'
+url: http://www.gutenberg.org/ebooks/16837
